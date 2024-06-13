@@ -19,4 +19,6 @@ npx prisma migrate dev
 
 npx prisma studio
 
+npm i zod
+
 ![alt text](image.png)
