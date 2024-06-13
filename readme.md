@@ -8,7 +8,15 @@ npx tsc --init
 npm i fastify
 
 npm i prisma -D
+
 npm i @prima/client
+
 npx prisma init
+
+npx prisma migrate dev
+
+//create users
+
+npx prisma studio
 
 ![alt text](image.png)
