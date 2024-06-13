@@ -1,3 +1,5 @@
+npm init -y
+
 npm install -D typescript @types/node tsx tsup
 
 npx tsc --init
