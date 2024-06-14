@@ -22,3 +22,7 @@ npx prisma studio
 npm i zod
 
 ![alt text](image.png)
+
+
+No meu vou instalar:
+npm install express @types/express
