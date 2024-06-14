@@ -26,3 +26,14 @@ npm i zod
 
 No meu vou instalar:
 npm install express @types/express
+
+no meu vou instalar o sentry tbm:
+npm install @sentry/node
+npm install @sentry/tracing
+npm install -D @types/sentry__node
+
+
+instalei o prettier tbm
+
+instalando lint
+npm install --save-dev eslint
